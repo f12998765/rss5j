@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+</head>
+<body>
+<h1>Hello RSS</h1>
+
+<div th:each="map : ${maps}">
+    <h3 th:text="${map.key}"></h3>
+    <ui th:each="entry : ${map.value}">
+        <a th:href="${entry.link}">
+            <li th:text="${entry.title}"></li>
+        </a>
+    </ui>
+</div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>F_xi 's subscriptions - BlueReader.org</title>
+    </head>
+    <body>
+        <outline text="技术" title="技术">
+            <outline text="Java译站" title="Java译站" type="rss" xmlUrl="http://it.deepinmind.com/atom.xml" htmlUrl="" />
+            <outline text="James Pan&#039;s Blog" title="James Pan&#039;s Blog" type="rss" xmlUrl="https://blog.jamespan.me/atom.xml" htmlUrl="/atom.xml" />
+            <outline text="HollisChuang&#039;s Blog" title="HollisChuang&#039;s Blog" type="rss" xmlUrl="http://www.hollischuang.com/feed/" htmlUrl="http://www.hollischuang.com" />
+            <outline text="JerryQu 的小站" title="JerryQu 的小站" type="rss" xmlUrl="https://imququ.com/rss.html" htmlUrl="https://www.imququ.com" />
+        </outline>
+        <outline text="思考" title="思考">
+            <outline text="酷壳" title="酷壳" type="rss" xmlUrl="http://coolshell.cn/feed" htmlUrl="http://coolshell.cn" />
+            <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/" />
+            <outline text="刘未鹏 | Mind Hacks" title="刘未鹏 | Mind Hacks" type="rss" xmlUrl="http://mindhacks.cn/feed/" htmlUrl="http://mindhacks.cn" />
+            <outline text="mindwind" title="mindwind" type="rss" xmlUrl="http://mindwind.me/feed" htmlUrl="" />
+            <outline text="唐巧的技术博客" title="唐巧的技术博客" type="rss" xmlUrl="http://blog.devtang.com/atom.xml" htmlUrl="http://blog.devtang.com/" />
+            <outline text="TW洞见" title="TW洞见" type="rss" xmlUrl="http://insights.thoughtworkers.org/feed/" htmlUrl="" />
+        </outline>
+        <outline text="网络安全" title="网络安全">
+            <outline text="EVILCOS" title="EVILCOS" type="rss" xmlUrl="http://evilcos.me/?feed=rss2" htmlUrl="http://evilcos.me" />
+            <outline text="知道创宇官方博客" title="知道创宇官方博客" type="rss" xmlUrl="http://blog.knownsec.com/feed/" htmlUrl="http://blog.knownsec.com" />
+        </outline>
+    </body>
+</opml>
